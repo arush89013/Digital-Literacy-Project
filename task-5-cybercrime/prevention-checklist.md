@@ -1,4 +1,4 @@
-# Task 5 Part B: 'Stay Safe Online' Prevention Guide
+# 'Stay Safe Online' Prevention Guide
 
 As a Student Digital Ambassador, I recommend these 8 actionable safety tips for college students:
 
