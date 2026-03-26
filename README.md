@@ -29,6 +29,7 @@ This repository is organized into five specialized tasks. Every tool used is fre
 * **Focus:** Mastering technical and collaborative platforms.
 * **Content:** A completed **HackerRank** challenge and a custom "Digital Literacy Quiz" via **Google Forms**.
 * **Collaboration:** Demonstrating efficiency with Google Workspace.
+* Quiz link-https://docs.google.com/forms/d/e/1FAIpQLSdQadkPSGCKzrx2P7MYazBjVo8_ogdTw0GaAbybpp-b7XtimA/viewform?
 
 ### 📧 [Task 4: Email Etiquette & Social Media](./task-4-email-etiquette/)
 * **Focus:** Professional communication and responsible digital citizenship.
