@@ -6,7 +6,7 @@ Welcome to my **Digital Literacy Portfolio**! This repository is the final deliv
 
 ## 👤 Student Profile
 * **Name:** Arush Singh
-* **Reg No.:** [Your Registration Number Here]
+* **Reg No.:** 25BCE10942
 * **Branch:** B.Tech Computer Science & Engineering
 * **Role:** Student Digital Ambassador 🛡️
 
@@ -18,7 +18,7 @@ This repository is organized into five specialized tasks. Every tool used is fre
 ### 🎨 [Task 1: Digital Awareness Infographic](./task-1-presentation/)
 * **Focus:** Creating a visual guide on what digital literacy means and why it matters.
 * **Content:** Covers safe internet practices and essential digital tools for first-year students.
-* **Tools:** Canva / Prezi.
+* **Tools:** Canva
 
 ### 💼 [Task 2: Student Digital Portfolio](./task-2-portfolio/)
 * **Focus:** Building a professional online presence.
@@ -50,8 +50,8 @@ For a deep dive into my work, observations, and personal reflections on each mod
 ## 🛠️ Tools & Technologies
 | Category | Platforms |
 | :--- | :--- |
-| **Design** | Canva, SlidesCarnival |
-| **Networking** | LinkedIn, GitHub |
+| **Design** | Canva |
+| **Networking** | LinkedIn, GitHub, Kaggle |
 | **Technical** | HackerRank, Google Forms |
 | **Security** | National Cyber Crime Portal |
 
@@ -59,8 +59,3 @@ For a deep dive into my work, observations, and personal reflections on each mod
 
 ## 🤝 Let's Stay Safe Online!
 "Digital literacy is not just about using tools; it's about using them responsibly." 
-
-If you're a fellow student, feel free to explore my resources! 🛡️✨
-
----
-*Submitted for 100 Marks internal assessment (Pass/Fail) at VIT Bhopal.*
